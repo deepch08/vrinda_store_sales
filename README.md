@@ -1,0 +1,3 @@
+Project Title: Vrinda Store Sales Analysis Using Excel
+
+This project analyzes sales data from Vrinda Store to uncover key trends and insights. Using Excel, I explored datasets covering sales performance, order status, customer demographics, top-selling regions, and sales channels. Through data cleaning, pivot tables, and visualizations, I identified patterns such as sales distribution by gender, age, and location. The analysis helps in understanding customer preferences, optimizing inventory, and improving sales strategies. This project showcases my ability to perform data-driven decision-making using Excel.
